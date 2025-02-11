@@ -1,35 +1,42 @@
 ---
-title: Home
+title: 声明
 layout: home
 ---
+# 重要声明
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+本网站内容仅为个人研究笔记，不构成任何投资建议。为资产证券化产品具有市场风险、信用风险及流动性风险，投资者应独立判断并承担交易结果。
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+所有公开政策文件均来自官方渠道，版权归属原发布机构。
 
-More specifically, the created site:
+部分内容基于作者本人的ABS投研经验编写，旨在为读者提供参考和指导。内容基于个人经验，可能无法覆盖所有情况或适用于所有市场环境。金融市场和监管政策不断变化，部分内容可能随时间失效或不适用。
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+欢迎读者提出宝贵意见或建议，如有任何问题或需要进一步探讨，请联系作者[ABScredit@outlook.com](mailto:ABScredit@outlook.com)。
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+本项目的Github仓库地址为：[abs-note/abs-note.github.io](https://github.com/abs-note/abs-note.github.io)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## 版权声明与授权说明
 
-To get started with creating a site, simply:
+本网站的原创内容版权归作者所有。作者授予用户在遵循以下条件的前提下，有限的使用权限：
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- 个人用户可以在非商业目的下，对本网站的原创内容进行个人学习、研究和欣赏，但不得进行任何形式的复制、传播或修改行为。
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- 非商业性组织在获得作者书面许可后，可以在其组织内部使用本网站的原创内容，但同样不得进行任何形式的复制、传播或修改行为。
+  
+- 任何商业机构或个人，如需将本网站的原创内容用于商业目的，必须事先获得作者的书面授权，并按照双方约定的方式和范围使用。
+  
+无论在何种情况下，使用本网站原创内容时，都必须保留作者的署名信息和原始出处，不得进行任何侵犯作者版权的行为。
 
-----
+## 核心技术组件
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+| 技术名称          | 用途                 | 许可协议                                                                                 |
+| ------------- | ------------------ | ------------------------------------------------------------------------------------ |
+| Just the Docs | 文档主题框架             | MIT License                                                                          |
+| Jekyll        | 静态网站生成器            | MIT License                                                                          |
+| GitHub Pages  | 网站托管服务             |  [服务条款](https://docs.github.com/zh/site-policy/github-terms/github-terms-of-service) |
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
+<sup>1</sup> 本网站会定期更新维护，力求信息准确，但仍请读者在参考使用时自行核实关键信息。
+
+<sup>2</sup> 若您发现任何侵权行为或有版权相关疑问，请及时联系作者，我们将立即处理。
+
+<sup>3</sup> 关于技术组件的使用均严格遵循各自许可协议，如有疑问可查阅对应协议原文。
