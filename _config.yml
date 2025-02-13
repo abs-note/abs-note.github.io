@@ -42,3 +42,6 @@ footer_content: 'Copyright &copy; 2025 ABSCredit@outlook.com'
 
 # To make KaTeX available on all your web pages
 math: katex
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.ico"
