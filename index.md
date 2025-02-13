@@ -10,7 +10,7 @@ layout: home
 
 部分内容基于作者本人的ABS投研经验编写，旨在为读者提供参考和指导。内容基于个人经验，可能无法覆盖所有情况或适用于所有市场环境。金融市场和监管政策不断变化，部分内容可能随时间失效或不适用。
 
-欢迎读者提出宝贵意见或建议，如有任何问题或需要进一步探讨，请联系作者[ABScredit@outlook.com](mailto:ABScredit@outlook.com)。
+欢迎读者提出宝贵意见或建议，如有任何问题或需要进一步探讨，请联系作者[ABSCredit@outlook.com](mailto:ABSCredit@outlook.com)。
 
 本项目的Github仓库地址为：[abs-note/abs-note.github.io](https://github.com/abs-note/abs-note.github.io)
 
