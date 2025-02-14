@@ -32,6 +32,7 @@ layout: home
 | ------------- | ------------------ | ------------------------------------------------------------------------------------ |
 | Just the Docs | 文档主题框架             | MIT License                                                                          |
 | Jekyll        | 静态网站生成器            | MIT License                                                                          |
+| Mermaid       | 图表可视化工具            | MIT License                                                                          |
 | GitHub Pages  | 网站托管服务             |  [服务条款](https://docs.github.com/zh/site-policy/github-terms/github-terms-of-service) |
 
 
