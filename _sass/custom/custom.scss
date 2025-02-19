@@ -1,0 +1,16 @@
+// custom SCSS (or CSS) goes here
+
+// 覆盖正文字体
+$body-font-family: 
+  // 英文在前，中文在后
+  system-ui, -apple-system, BlinkMacSystemFont, 
+  "Segoe UI", Roboto, "Helvetica Neue", Arial,
+  "Microsoft Yahei", "PingFang SC", "Hiragino Sans GB", 
+  "WenQuanYi Micro Hei", sans-serif;
+
+// 中文字体通常需要更大行高
+$body-line-height: 1.6;     // 原值 1.4
+$content-line-height: 1.8;  // 原值 1.6
+
+// 引入主题
+@import "just-the-docs";
