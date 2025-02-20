@@ -8,9 +8,8 @@ url: https://abs-note.github.io/
 aux_links:
   'GitHub仓库': https://github.com/abs-note/abs-note.github.io
 
-sass: # set sass options for silencing deprecations
-  quiet_deps: true
-  silence_deprecations: ['import']
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: foo
 
 # By default, consuming the theme as a gem leaves mermaid disabled; it is opt-in
 mermaid:
