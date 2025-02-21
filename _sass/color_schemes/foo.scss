@@ -7,12 +7,11 @@ $nav-child-link-color: #141413;
 $sidebar-color: #f0eee6;
 $base-button-color: #faf9f5;
 $btn-primary-color: #d47a59;
-$code-background-color: #171a21;
-$code-linenumber-color: #e6ecf2; 
+$code-background-color: #e8dbbc;
 $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: #faf9f5;
 $search-background-color: #e8e6dc;
 $search-result-preview-color: $grey-dk-000;
 $border-color: #e3e1da;
 
-@import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
+@import "./vendor/OneLightJekyll/syntax";
