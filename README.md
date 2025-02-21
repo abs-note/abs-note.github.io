@@ -20,8 +20,8 @@ layout: about
 初始化完毕后，`username.github.io` 应该已经生成了一个可访问的网页，并采用 [Just the Docs] 的基本配置，接下来可以进一步完善网站内容：
 
 1. 修改 `index.md` 的内容，这将成为你的网站首页；
-2. 创建 `docs/` 文件夹，存放其他页面内容；
-3. 修改 `_config.yml`，设定个性化配置；
+2. 创建 `docs/` 文件夹，存放其他页面内容，统一使用 Markdown 编写；
+3. 修改 `_config.yml`，设定个性化配置（支持 Mermaid 图表）；
 4. 查阅官方文档进行进一步深度配置。
 
 ## 参考文档
@@ -30,6 +30,8 @@ layout: about
 2. [Just the Docs Tests 官方文档](https://just-the-docs.com/)（深度配置）
 3. [Just the Docs 中文版文档](https://docs.rubyist.cn/just-the-docs/)（版本滞后）
 4. [GitHub Pages 快速入门](https://docs.github.com/zh/pages/quickstart)
+5. [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
+6. [Mermaid 基本语法](https://mermaid.js.org/intro/)
 
 ## License
 
