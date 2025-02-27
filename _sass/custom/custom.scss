@@ -4,7 +4,7 @@
 h1,
 .text-alpha {
   font-weight: 700;
-  border-bottom: 1px solid $border-color; // 使用主题的默认边框颜色
+  border-bottom: 2px solid $border-color; // 使用主题的默认边框颜色
   padding-bottom: 0.3em; // 控制分割线与文字间距
   margin-bottom: 1em; // 控制分割线与下方内容的间距
 
@@ -12,8 +12,7 @@ h1,
 }
 
 h2,
-.text-beta,
-#toctitle {
+.text-beta{
   font-weight: 700;
   border-bottom: 1px solid $border-color; 
   padding-bottom: 0.2em;
